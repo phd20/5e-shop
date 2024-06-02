@@ -11,7 +11,6 @@ function App() {
     setItems(data as Armor[]);
   }, []);
 
-
   return (
     <>
       <Typography variant="h2" gutterBottom>
